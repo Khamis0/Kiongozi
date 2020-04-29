@@ -254,10 +254,10 @@ def gmutestat(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_text("I've disabled gmutes in this group. GMutes wont affect your users "
                                                 "anymore. You'll be less protected from Anirudh though!")
     else:
-        update.effective_message.reply_text("ഒരു ക്രമീകരണം തിരഞ്ഞെടുക്കാൻ എനിക്ക് കുറച്ച് ആർഗ്യുമെന്റുകൾ നൽകുക! on/off, yes/no!\n\n"
-                                            "നിങ്ങളുടെ നിലവിലെ ക്രമീകരണം ഇതാണ്: {}\n"
-                                            "ശരിയാണെങ്കിൽ, സംഭവിക്കുന്ന ഏത് gmutes ഉം നിങ്ങളുടെ ഗ്രൂപ്പിൽ സംഭവിക്കും. "
-                                            "തെറ്റാണെങ്കിൽ‌, അവർ‌ സമ്മതിക്കില്ല, സ്പാമർ‌മാരുടെ കാരുണ്യത്തിൽ‌ നിങ്ങളെ ഒഴിവാക്കും."
+        update.effective_message.reply_text("Nipe hoja chache kuchagua mpangilio! on/off, yes/no!\n\n"
+                                            "Huu ni mpangilio wako wa sasa: {}\n"
+                                            "Ikiwa ni kweli, chochote kinachotokea gmutes Na hiyo hufanyika katika kikundi chako. "
+                                            "Ikiwa ni makosa, hawatakubali na watakuokoa huruma ya spammers."
                                             "spammers.".format(sql.does_chat_gmute(update.effective_chat.id)))
 
 
