@@ -52,8 +52,8 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAmri au Command zote zinaAnza na Alama hii👉 / au !.\n")
 
 DONATE_STRING = """Assalaam Aleykum Warahmatullah Wabarakaatuh \nAlhamdulillah Nimetegeneza Bot hili La @UqabBot
-Kwa Ajili ya Magroup, Vikundi Vya Waislam Hapa Telegram\
-Robot Huyu Anatumika Katika Vikundi vya Ummah na Binafsi\
+Kwa Ajili ya Magroup, Vikundi Vya Waislam Hapa Telegram
+Robot Huyu Anatumika Katika Vikundi vya Ummah na Binafsi
 Ongea Na mimi kupitia Hapa\n     👇 \n➠[Khamis](https://t.me/KhamissBot)."""
 
 IMPORTED = {}
