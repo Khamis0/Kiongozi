@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Habari yako {}, Mimi ni *Robot* Jina langu ni {}! \n\n*Kupata Menu zangu zoote, Gusa hapa ➠* /help - Au Tuulize kupitia @ViongoziBot 👈
+    بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n\n *Assalaam Aleykum Warhmatullah Wabarakaatuh.* {}, Mimi ni *Robot* Jina langu ni {}! \n\n*Kupata Menu zangu zoote, Gusa hapa ➠* /help - Au Tuulize kupitia @ViongoziBot 👈
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library, and am fully [opensource](https://t.me/Hamisbot) - you can find what makes me tick \
@@ -35,9 +35,8 @@ If you're enjoying using me, and/or would like to help me survive in the wild, h
 """
 
 HELP_STRINGS = """
-Habari yako! Jina langu ni *{}*.
-I'm a modular group management bot with a few fun extras! Angalia yafuatayo 👇 kwanza baadhi ya mambo ambayo ninaweza kukusaidia katika Group Lako 🤝. \
-the things I can help you with.
+Karibu Katika *Menu* Zangu Mimi *{}*.
+Angalia yafuatayo 👇 kwanza baadhi ya mambo ambayo ninaweza kukusaidia katika Group Lako 🤝. \
 
 *Amri kuu za kuanzia Kutumia:*
  - /start: start the bot
