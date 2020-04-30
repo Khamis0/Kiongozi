@@ -5,7 +5,7 @@ from sqlalchemy import Column, String, Boolean, UnicodeText, Integer, BigInteger
 from tg_bot.modules.helper_funcs.msg_types import Types
 from tg_bot.modules.sql import SESSION, BASE
 
-DEFAULT_WELCOME = "Assalaam Aleykum {first}, *Karibu katika group Letu*\n\n➠ [KhamisBot](https://t.me/Hamisbot)"
+DEFAULT_WELCOME = "Assalaam Aleykum {first}, *Karibu katika group Letu*\n\n➠ @HamisBot"
 DEFAULT_GOODBYE = "__Kwaheli Karibu Tena__!"
 
 
