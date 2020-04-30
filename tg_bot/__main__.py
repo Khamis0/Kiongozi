@@ -54,7 +54,7 @@ And the following:
 DONATE_STRING = """Assalaam Aleykum Warahmatullah Wabarakaatuh \nAlhamdulillah Nimetegeneza Bot hili La @UqabBot
 Kwa Ajili ya Magroup, Vikundi Vya Waislam Hapa Telegram\
 Robot Huyu Anatumika Katika Vikundi vya Ummah na Binafsi\
-Ongea Na mimi kupitia Hapa\n     👇 \n➠[Khamis](https://t.me/Khamis_sBot)."""
+Ongea Na mimi kupitia Hapa\n     👇 \n➠[Khamis](https://t.me/KhamissBot)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
