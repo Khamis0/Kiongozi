@@ -19,19 +19,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Habari yako {}, Mimi ni *Robot* Jina langu ni {}! Kupata <b><i><u>Menu zangu zoote, Gusa hapa</u></i></b> 👉 /help - Au Tuulize kupitia @ViongoziBot 👈
+Habari yako {}, Mimi ni *Robot* Jina langu ni {}! Kupata Menu zangu zoote, Gusa hapa 👉 /help - Au Tuulize kupitia @ViongoziBot 👈
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
-python-telegram-bot library, and am fully [opensource](https://t.me/Twuwbaa) - you can find what makes me tick \
+python-telegram-bot library, and am fully [opensource](https://t.me/Hamisbot) - you can find what makes me tick \
 [here](github.com/aboyhasnooname/tgbot)!
 
 Feel free to submit pull requests on github, or to contact my, @ViongoziBot, with any bugs, questions \
 or feature requests you might have :)
-I also have a news channel, [Home Islamu](https://t.me/homeislamu) for announcements on new features, downtime, etc.
-
-You can find the list of available commands with /help.
+*Karibu Katika channel Yangu,* [Home Islamu](https://t.me/homeislamu) *Kwa Darsa Za kila Siku*
 [List Ya Channel Na Bot Za Ki, Islamu](https://telegra.ph/List-Ya-Channel-Za-Ki-Islamu-04-30)
 
+You can find the list of available commands with /help.
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """
 
